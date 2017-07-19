@@ -21,7 +21,7 @@ The events in the database start in the year 1950 and end in November 2011. In t
 
 # Assignment
 
-
+Click [here](http://rawgit.com/jordiac/Natural_Events_USA/master/PA2.html) to see the assignment.
 
 
 
